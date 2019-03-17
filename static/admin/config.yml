@@ -3,7 +3,7 @@
 #   branch: master
 backend:
   name: github
-  repo: kyawyenaing/gatsby-starter-netlify-cms # Path to your GitHub repository
+  repo: kyawyenaing/red-lion # Path to your GitHub repository
 
 media_folder: static/img
 public_folder: /img
